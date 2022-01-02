@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Boilerplate`,
-    description: `This is Gatsby Boilerplate.`,
-    author: `@gatsbyjs`,
+    title: `LemonBay`,
+    description: `Twój plan, nasze wykonanie.`,
+    author: `@lemonbay`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
