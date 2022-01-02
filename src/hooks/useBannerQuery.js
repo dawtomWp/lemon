@@ -9,7 +9,7 @@ export const useBannerQuery = () => {
           buttontext1
           imagetext1
           imagedesc1
-          image1 {
+          imagebanner {
             localFile {
               childImageSharp {
                 gatsbyImageData(width: 1920, placeholder: TRACED_SVG)
