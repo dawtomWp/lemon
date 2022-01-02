@@ -27,7 +27,7 @@ export const Banner = () => {
       <Image
         bannerimg
         image={
-          wpPage.acfBanner.imagebanner.localFile.childImageSharp.gatsbyImageData
+          wpPage.acfBanner.image1.localFile.childImageSharp.gatsbyImageData
         }
         alt="Banner image"
       />
